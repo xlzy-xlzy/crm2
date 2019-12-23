@@ -8,6 +8,7 @@ public class BadGril {
 		System.out.println("123456789");
 		System.out.println("tom");
 		System.out.println("457");
+
 		System.out.println("yueyue");
 
 		System.out.println("457");

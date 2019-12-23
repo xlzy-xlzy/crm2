@@ -9,6 +9,7 @@ public class BadGril {
 		System.out.println("tom");
 		System.out.println("457");
 		System.out.println("»¨»¨");
+		System.out.println("224");
 	}
 
 }
